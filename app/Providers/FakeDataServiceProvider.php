@@ -2,7 +2,7 @@
 
 namespace App\Providers;
 
-use App\Services\MockServices\JsonApiService;
+use App\Services\JsonApiService;
 use App\Services\MockServices\MockJsonApiService;
 use Illuminate\Support\ServiceProvider;
 

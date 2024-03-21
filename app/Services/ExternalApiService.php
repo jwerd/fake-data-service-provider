@@ -2,8 +2,6 @@
 
 namespace App\Services;
 
-use App\Services\MockServices\JsonApiService;
-
 class ExternalApiService
 {
     public function __construct()

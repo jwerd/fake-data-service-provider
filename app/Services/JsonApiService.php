@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services\MockServices;
+namespace App\Services;
 
 use Illuminate\Support\Facades\Http;
 
