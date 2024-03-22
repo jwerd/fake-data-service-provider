@@ -4,9 +4,6 @@ namespace App\Services;
 
 class ExternalApiService
 {
-    public function __construct()
-    {
-    }
 
     public function getResults(): array
     {
